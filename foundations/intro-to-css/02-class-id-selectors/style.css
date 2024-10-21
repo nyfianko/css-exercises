@@ -1,0 +1,20 @@
+p, 
+.secondclass {
+    background-color: #ffc0cb;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+.secondclass {
+    font-size: 24px;
+}
+ #title
+ {
+    color:#0000ff;
+    font-size: 36px;
+}
+#middletext {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
